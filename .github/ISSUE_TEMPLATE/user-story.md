@@ -14,4 +14,7 @@ assignees: ''
 ###Details and Assumptions:
 * [document what you know]
 
-###Aceptance Criteria:
+###Acceptance Criteria:
+Given
+When
+Then
